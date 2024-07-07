@@ -11,6 +11,7 @@ Tools Used :
   * Python - numpy,pandas,matplotlib,seaborn
 
 Project Modules:
+
   *Data Collection 
   *Data Pre-processing
   *Feature Extraction
@@ -20,9 +21,11 @@ Project Modules:
   *Visualization - graphs,plots,UI web page
 
 Algorithm :
+
    In this project Support Vector Machine [SVM] classifier algorithm is implemented.
 
 Conclution:
+
   The analytical process started from data cleaning and processing, missing value, exploratory analysis and finally model building and evaluation. The best accuracy on public test set is higher accuracy score will be found out. This project can help to find the Prediction of SMS spam messages with spam or not spam detection. 
    
    
